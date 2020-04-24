@@ -26,8 +26,7 @@ use Illuminate\Database\Eloquent\Model;
 class Comment extends Model
 {
     protected $fillable = [
-        'message',
-        'ticket_id',
+        'message'
     ];
 
     /**
