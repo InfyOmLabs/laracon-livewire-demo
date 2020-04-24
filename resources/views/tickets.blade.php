@@ -24,11 +24,9 @@
                         @foreach ($comments as $comment)
                             <div class="comment">
                                 <p class="card-subtitle mb-2 text-muted">{{ $comment->created_at->diffForHumans() }}</p>
-                                <p class="card-text">Quick sample text to create the card title and make up the body of the
-                                    card's content.</p>
+                                <p class="card-text">{{ $comment->message }}</p>
                             </div>
                         @endforeach
-
                     </div>
                     <div>
                         <h4>New Comment</h4>
