@@ -5,7 +5,6 @@
     - Setup .env
     - Install basic packages
     - Install Livewire
-    - Install Livewire CSS+Scripts
   
 2. Setup Tickets and Comments
     - Create Migrations
