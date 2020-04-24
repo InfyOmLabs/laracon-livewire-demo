@@ -1,0 +1,49 @@
+main {
+    margin: 50px;
+}
+
+.credits {
+    margin-left: 50px;
+}
+
+.tickets-list {
+    background-color: #f7f8f9;
+    border-radius: 5px;
+    max-height: 65vh;
+    overflow: auto;
+}
+
+.ticket {
+    border-bottom: 1px solid rgb(200, 206, 211);
+    padding: 15px;
+}
+
+.ticket.active {
+    background-color: #20a8d8;
+    color: white;
+}
+
+.ticket:last-child {
+    border-bottom: none;
+}
+
+#txtSearch {
+    margin-bottom: 20px;
+}
+
+.comments-list {
+    height: 39vh;
+    overflow: auto;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.comment {
+    border-bottom: 1px solid rgb(200, 206, 211);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.comment:last-child {
+    border-bottom: none;
+}
