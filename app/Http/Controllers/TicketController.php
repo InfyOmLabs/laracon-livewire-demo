@@ -9,9 +9,6 @@ class TicketController extends Controller
 {
     public function index()
     {
-        return view('tickets', [
-            'tickets' => Ticket::all(),
-            'comments' => Ticket::find(1)->comments
-        ]);
+        return view('tickets');
     }
 }
