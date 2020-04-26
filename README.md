@@ -6,9 +6,13 @@ We built a kind of Support ticket system where you can list the ticket, click th
 
 Also, you can search tickets and add new comments to the ticket without leaving a page just like and SPA (Single Page Application).
 
+## Demo App Screenshot
+
 Here is the screenshot of demo application.
 
 ![Demo Application Image](demo.png)
+
+## Session Flow
 
 Here is the flow/stuff that was covered during demo. 
 
@@ -73,3 +77,12 @@ Here is the flow/stuff that was covered during demo.
     - Handle few bugs of selections
     
 13. Display Comments Count
+
+## Thanks
+
+Thanks to,
+
+- [Laravel](https://laravel.com/) & [Taylor Otwell](https://twitter.com/taylorotwell)
+- [Livewire](https://laravel-livewire.com/) & [Caleb Porzio](https://twitter.com/calebporzio)
+- [Mitul Golakiya](https://github.com/mitulgolakiya) as a speaker
+- [Laravel Live India Community](https://twitter.com/LaraconIN) for organizing this wonderful event
