@@ -15,8 +15,9 @@
     - Setup Tickets List View
     - Setup Comments View
     
-3. Install Livewire
-    - Setup CSS + Script
+================================ WE ARE DONE SO FAR HERE ================================ 
+    
+3. Setup Livewire Setup CSS + Script
     
 4. Understand Component Structure
     - Create First Component - TicketsWindow
@@ -58,6 +59,7 @@
     
 12. Implement Search
     - Define as a model
+    - Make search working
     - Handle few bugs of selections
     
 13. Display Comments Count
