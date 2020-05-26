@@ -11,7 +11,7 @@
 
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     @livewireStyles
-    <link href="{{ asset('style.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('style.css') }}" rel="stylesheet">
 </head>
 
 <body class="app sidebar-show aside-menu-show">
